@@ -28,8 +28,6 @@ photo_ev = 0
 # Photo dimensions and rotation
 photo_width  = 1920
 photo_height = 1080
-#photo_width  = 800
-#photo_height = 600
 photo_rotate = 0
 fileSerial = 1
 photo_interval = 2    # Interval between photos (seconds)
